@@ -10,6 +10,9 @@ public class Variable{
 
         int B = 10 + 2;
         System.out.println(B);   
+
+        int C = A + B;// This is called a expression ( using variables )
+        System.out.println(C);// you can perform any mathematical operation or can print statements using variables.
     }
 }
 
