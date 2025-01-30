@@ -6,7 +6,7 @@
 public class Variable{
     public static void main(String[] args) {
         int A = 4; // now if you try to assign a different value to A it will throw a error.
-        System.out.println(A);
+        System.out.println(A);// To display the value store in variable you just need to print it using System.out.println without the double quotes , they are used to print any statement or string  
 
         int B = 10 + 2;
         System.out.println(B);   
