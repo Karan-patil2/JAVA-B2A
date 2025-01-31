@@ -1,4 +1,4 @@
-//Primitive data types - int , float , double , decimal , boolean , char.
+//Primitive data types - int , float , double , long , short ,  boolean , char , byte.
 //Wrapper class - basically these are the primitive data class but in full form (ex. int is a primitive data type and it's wrapper class is Integer that's the difference). 
 
 
