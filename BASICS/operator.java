@@ -1,4 +1,4 @@
-//In this session , we are going to leran about operators which are +,-,/,= etc .
+//In this session , we are going to learn about operators which are +,-,/,= etc .
 
 public class operator{
     public static void main(String[] args) {
@@ -18,4 +18,5 @@ public class operator{
 //Output :-
 
 //11
+
 //3
